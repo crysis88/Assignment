@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.test : assignment-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="assignment-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.test : assignment-1.0-SNAPSHOT.war (exploded)" />
+      <element id="javaee-facet-resources" facet="assignment/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="assignment" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
